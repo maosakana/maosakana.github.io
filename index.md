@@ -1,6 +1,8 @@
 **[Editor on GitHub](https://github.com/maosakana/maosakana.github.io/edit/master/index.md)**   　
 
 # Welcome to My Page!
+[Link to another page](./another-page.html).
+
 ## About　
 **maosakana  /  Mao Kozuma**  
 Kyushu univ undergradurate student
