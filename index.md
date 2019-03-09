@@ -15,26 +15,26 @@ note: [@maosakana](https://note.mu/maosakana)
 Internship  Mar 2019 - Current  
 **Mercari Inc.** Data Analyst, Business Intelligence team.
 
-Internship   Sep 2018 - Oct 2018
+Internship   Sep 2018 - Oct 2018 
 **Twitter Japan K.K.** Global Advertising Performance team.
 
-Internship    Apr 2018 - Aug 2018
+Internship    Apr 2018 - Aug 2018 
 **Money Forward Inc.** Software Engineer
 
-Internships   Aug 2018
+Internships   Aug 2018 
 **Japan Tobacco Inc.** Corporate Planning Department. The final presentation championship.
 
-Internship   Sep 2017 - Mar 2018
+Internship   Sep 2017 - Mar 2018 
 **LINE Fukuoka** Data Scientist Assistant, analyzed a LINE news.
 
-Internship   Aug 2017
+Internship   Aug 2017 
 **IBM Japan Inc.** Innovation Consulting course. The final presentation championship.
 
-Internship   Aug 2017
+Internship   Aug 2017 
 **THE NIKKEI.** A hack-a-thon of Digital Division. Developed an web application with Ruby on Rails.
 
-Menter   Apri 2017 - Aug 2017
+Menter   Apri 2017 - Aug 2017 
 **div** TECH::CAMP Ruby on Rails mentor
 
-Part-time job   Sep 2016- Mar 2017
+Part-time job   Sep 2016- Mar 2017 
 **Starbucks Coffee Company.** Varistor.
