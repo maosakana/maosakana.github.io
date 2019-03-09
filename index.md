@@ -7,7 +7,7 @@
 **maosakana  /  Mao Kozuma**  
 Kyushu univ undergradurate student
 
- **[Twitter](http://twitter.com/ma_osakana).**  
+ **[Twitter](http://twitter.com/ma_osakana)**.  
  頻繁に、カジュアルでプライベートな内容も呟きます		
  
  **[hatena blog](http://maosakana.hatenablog.com/).**  
