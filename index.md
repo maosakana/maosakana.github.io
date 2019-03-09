@@ -9,12 +9,12 @@ Mao Kozuma / Kyushu univ undergradurate
 ### Links
 
 Twitter: [@ma_osakana](http://twitter.com/ma_osakana)   
-   頻繁に、カジュアルでプライベートな内容も呟きます
+  　　 頻繁に、カジュアルでプライベートな内容も呟きます　　　
 hatena blog: [@maosakana](http://maosakana.hatenablog.com/)      
-　　ほぼ毎日、日記やポエムやエッセイみたいなものを書いています
+　　　　ほぼ毎日、日記やポエムやエッセイみたいなものを書いています　　　
 note: [@maosakana](https://note.mu/maosakana)      
-　　たまに、まとめたいことをドキュメンテーションしています
-
+　　　　たまに、まとめたいことをドキュメンテーションしています　　　
+　　　　
 ### Work History
 
 Internship  Mar 2019 - Current  
