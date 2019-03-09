@@ -3,13 +3,9 @@
 
 maosakana
 Mao Kozuma / Kyushu univ undergradurate 
-![maosakana](https://user-images.githubusercontent.com/25532388/54070891-508f8500-42a9-11e9-8e1c-a20a6c2a272f.jpg)
+
 <img width="200" alt="maosakana" src="https://user-images.githubusercontent.com/25532388/54070891-508f8500-42a9-11e9-8e1c-a20a6c2a272f.jpg">
-
-![maosakanako](https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png)
 <img width="200" alt="maosakananeko" src="https://user-images.githubusercontent.com/25532388/54070895-56856600-42a9-11e9-9d4a-ccd2c726579e.png">
-
-![kuroniko](https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG)
 <img width="200" alt="kuroniko" src="https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG">
 
 ### Links
