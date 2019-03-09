@@ -1,4 +1,4 @@
-[news](./another-page.html) [Edit](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 　
+ [Award](./another-page.html)  /  [Edit](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 　
 
 # Welcome to My Page!
 ## About　
