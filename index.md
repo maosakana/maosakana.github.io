@@ -4,7 +4,7 @@
 maosakana
 Mao Kozuma / Kyushu univ undergradurate 
 
-<img width="100" alt="maosakana" src="https://user-images.githubusercontent.com/25532388/54070891-508f8500-42a9-11e9-8e1c-a20a6c2a272f.jpg"> <img width="100" alt="kuroniko" src="https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG">  <img width="100" alt="maosakananeko" src="https://user-images.githubusercontent.com/25532388/54070895-56856600-42a9-11e9-9d4a-ccd2c726579e.png"> <img width="100" alt="maosakanako" src="https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png">
+<img width="75" alt="maosakana" src="https://user-images.githubusercontent.com/25532388/54070891-508f8500-42a9-11e9-8e1c-a20a6c2a272f.jpg"> <img width="75" alt="kuroniko" src="https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG">  <img width="75" alt="maosakananeko" src="https://user-images.githubusercontent.com/25532388/54070895-56856600-42a9-11e9-9d4a-ccd2c726579e.png"> <img width="75" alt="maosakanako" src="https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png">
 
 ### Links　
 Twitter: [@ma_osakana](http://twitter.com/ma_osakana)  
