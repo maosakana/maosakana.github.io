@@ -1,6 +1,11 @@
 **[Editor on GitHub](https://github.com/maosakana/maosakana.github.io/edit/master/index.md)**   　
 **[PDF here](https://github.com/maosakana/maosakana.github.io/files/2948314/MaoKozumaCV.pdf)**
 
+title: [maosakana portfolio]
+show_downloads: [https://github.com/maosakana/maosakana.github.io/files/2948314/MaoKozumaCV.pdf]
+
+
+
 ### About　
 **maosakana**   
 **Mao Kozuma** / Kyushu univ undergradurate   
