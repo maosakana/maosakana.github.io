@@ -1,4 +1,4 @@
- [Award](./another-page.html)  /  [Edit](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 　
+[Edit](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 　
 
 # Welcome to My Page!
 ## About　
@@ -11,8 +11,11 @@ Kyushu univ undergradurate student
  [hatena blog](http://maosakana.hatenablog.com/)  
  ほぼ毎日、日記やポエムやエッセイみたいなものを書いています		 
   
-[note](https://note.mu/maosakana)  
- たまに、まとめたいことをドキュメンテーションしています	
+ [note](https://note.mu/maosakana)  
+ たまに、まとめたいことをドキュメンテーションしています	  
+ 
+ [portfolio](./another-page.html)  
+ 過去に受賞したものや参加したものやつくったもの
   
  <img width="75" alt="kuroniko" src="https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG"> <img width="75" alt="maosakananeko" src="https://user-images.githubusercontent.com/25532388/54070895-56856600-42a9-11e9-9d4a-ccd2c726579e.png">  <img width="75" alt="maosakanako" src="https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png">
   
