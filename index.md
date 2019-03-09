@@ -1,7 +1,7 @@
 **[Editor on GitHub](https://github.com/maosakana/maosakana.github.io/edit/master/index.md)**   　
 
 # Welcome to My Page!
-[news!](./another-page.html).
+[news](./another-page.html)
 
 ## About　
 **maosakana  /  Mao Kozuma**  
