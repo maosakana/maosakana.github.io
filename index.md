@@ -4,34 +4,48 @@ You can use the [editor on GitHub](https://github.com/maosakana/maosakana.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Welcome to Maosakana Profile Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+maosakana
+Mao Kozuma / Kyushu univ undergradurate 
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
+Twitter: [@ma_osakana](http://twitter.com/ma_osakana)
+hatena blog: [@maosakana](http://maosakana.hatenablog.com/)
+note: [@maosakana](https://note.mu/maosakana)
 
-- Bulleted
-- List
+### Work History
 
-1. Numbered
-2. List
+Internship  Mar 2019 - Current  
+Mercari Inc.
+Data Analyst, Business Intelligence team.
 
-**Bold** and _Italic_ and `Code` text
+Internship   Sep 2018 - Oct 2018
+Twitter Japan K.K.
+Global Advertising Performance team.
 
-[Link](url) and ![Image](src)
-```
+Internship    Apr 2018 - Aug 2018
+Money Forward Inc.
+Software Engineer
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Internships   Aug 2018
+Japan Tobacco Inc.      
+Corporate Planning Department. The final presentation championship.
 
-### Jekyll Themes
+Internship   Sep 2017 - Mar 2018
+LINE Fukuoka 
+Data Scientist Assistant, analyzed a LINE news.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/maosakana/maosakana.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Internship   Aug 2017
+IBM Japan Inc.
+Innovation Consulting course. The final presentation championship.
 
-### Support or Contact
+Internship   Aug 2017
+THE NIKKEI. 
+A hack-a-thon of Digital Division. Developed an web application with Ruby on Rails.
 
+Part-time job   Sep 2017- Mar 2017
+Starbucks Coffee Company. 
+Varistor.
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
