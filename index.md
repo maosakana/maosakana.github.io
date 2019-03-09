@@ -6,9 +6,9 @@ Mao Kozuma / Kyushu univ undergradurate
 
 ### Links
 
-Twitter: [@ma_osakana](http://twitter.com/ma_osakana)
-hatena blog: [@maosakana](http://maosakana.hatenablog.com/)
-note: [@maosakana](https://note.mu/maosakana)
+Twitter: [@ma_osakana](http://twitter.com/ma_osakana)   
+hatena blog: [@maosakana](http://maosakana.hatenablog.com/)   
+note: [@maosakana](https://note.mu/maosakana)   
 
 ### Work History
 
