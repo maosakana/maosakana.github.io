@@ -1,17 +1,16 @@
 **[Editor on GitHub](https://github.com/maosakana/maosakana.github.io/edit/master/index.md)**   　
-**[PDF here](https://github.com/maosakana/maosakana.github.io/files/2948314/MaoKozumaCV.pdf)**
 
 ### About　
 **maosakana**   
 **Mao Kozuma** / Kyushu univ undergradurate   
 
-Twitter: [@ma_osakana](http://twitter.com/ma_osakana)  
+Twitter : [go](http://twitter.com/ma_osakana)  
 頻繁に、カジュアルでプライベートな内容も呟きます		
  
-hatena blog: [@maosakana](http://maosakana.hatenablog.com/)  
+hatena blog : [go](http://maosakana.hatenablog.com/)  
 ほぼ毎日、日記やポエムやエッセイみたいなものを書いています		 
   
-note: [@maosakana](https://note.mu/maosakana)  
+note : [go](https://note.mu/maosakana)  
 たまに、まとめたいことをドキュメンテーションしています	
 
 
