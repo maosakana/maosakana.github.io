@@ -4,13 +4,13 @@
 **maosakana**   
 **Mao Kozuma** / Kyushu univ undergradurate   
 
-Twitter : [😊](http://twitter.com/ma_osakana)  
+**[Twitter](http://twitter.com/ma_osakana)**  
 頻繁に、カジュアルでプライベートな内容も呟きます		
  
-hatena blog : [😊](http://maosakana.hatenablog.com/)  
+**[hatena blog](http://maosakana.hatenablog.com/)**  
 ほぼ毎日、日記やポエムやエッセイみたいなものを書いています		 
   
-note : [😊](https://note.mu/maosakana)  
+**[note](https://note.mu/maosakana)**  
 たまに、まとめたいことをドキュメンテーションしています	
 
 
