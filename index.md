@@ -2,7 +2,7 @@
 **[PDF here](https://github.com/maosakana/maosakana.github.io/files/2948314/MaoKozumaCV.pdf)**
 
 ### About　
-**maosakana**
+**maosakana**   
 **Mao Kozuma** / Kyushu univ undergradurate   
 
 Twitter: [@ma_osakana](http://twitter.com/ma_osakana)  
