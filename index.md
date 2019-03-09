@@ -1,5 +1,5 @@
 [editor on GitHub](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 
-
+[pdf here](http:https://gitprint.com/maosakana/maosakana.github.io/edit/master/index.md)
 
 maosakana
 Mao Kozuma / Kyushu univ undergradurate 
