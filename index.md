@@ -2,7 +2,7 @@
 
 # Welcome to My Page!
 ## About　
-**maosakana  /  Mao Kozuma**  
+**maosakana**  
 undergradurate student . Kyushu university
 
  [Twitter](http://twitter.com/ma_osakana)  
