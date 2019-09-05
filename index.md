@@ -6,7 +6,7 @@
 Undergradurate student / Kyushu university
 
  [Twitter](http://twitter.com/ma_osakana)  
- 頻繁に、カジュアルでプライベートな内容も呟きます		
+ 頻繁に、カジュアルでプライベートな内容も呟きます		 
  
  [hatena blog](http://maosakana.hatenablog.com/)  
  ほぼ毎日、日記やポエムやエッセイみたいなものを書いています		 
@@ -20,8 +20,8 @@ Undergradurate student / Kyushu university
  <img width="75" alt="kuroniko" src="https://user-images.githubusercontent.com/25532388/54070898-5ab18380-42a9-11e9-8592-447785856f21.PNG"> <img width="75" alt="maosakananeko" src="https://user-images.githubusercontent.com/25532388/54070895-56856600-42a9-11e9-9d4a-ccd2c726579e.png">  <img width="75" alt="maosakanako" src="https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png">
   
 ## Work History
-Internship Aug 2019 - Sep 2019  
-**Recruit Life Style** Data Planner, Data Solution team.  
+Internship Aug 2019 - Sep 2019   
+**Recruit Life Style** Data Planner, Data Solution team.   
 
 Internship  Mar 2019 - Jul 2019  
 **Mercari Inc.** Data Analyst, Business Intelligence team.
