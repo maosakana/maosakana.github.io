@@ -23,7 +23,7 @@ Undergradurate student / Kyushu university
   
 ## Work History
 Internship Aug 2019 - Sep 2019   
- **Recruit Life Style** Data Planner, Data Solution team.   <img width="75" alt="maosakanako" src="https://user-images.githubusercontent.com/25532388/54070893-54230c00-42a9-11e9-81d6-8c183ac9abd7.png">
+ **Recruit Life Style** Data Planner, Data Solution team.
 
 Internship  Mar 2019 - Jul 2019  
 **Mercari Inc.** Data Analyst, Business Intelligence team.
