@@ -1,7 +1,7 @@
 [Edit](https://github.com/maosakana/maosakana.github.io/edit/master/index.md) 　
 
 # Welcome to My Page!
-last-updated 2019-09-01  
+last-updated 2019-09-01
 
 ## About　
 **maosakana**  
